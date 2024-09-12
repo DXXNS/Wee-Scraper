@@ -41,7 +41,7 @@ Wee-Scraper is a Python-based web scraper that allows you to extract text, image
 ## Screenshots
 
 - **Interface Example**:
-  ![Image Example](https://cdn.discordapp.com/attachments/1280252232209530894/1283417678593265802/image.png?ex=66e2eb5b&is=66e199db&hm=7effafc4d7ecbc9aae4a8e4714470d355d69108ccdffce2c856c641114248343&)
+  ![Image Example](image.png)
 
 - **Scraping Example**:
   ![Screenshot Example](https://cdn.discordapp.com/attachments/1280252232209530894/1283417306742915132/image.png?ex=66e2eb02&is=66e19982&hm=567bb3f149d17edc87f9475401fae6f9760b8ec239963208eb63417be0baec32&)
